@@ -484,8 +484,6 @@ li {
   overflow: hidden;
   cursor: pointer;
   animation: name-of-animation 2s;
-  @media screen and (max-width: 1200px) {
-  }
 }
 
 .card-img {
